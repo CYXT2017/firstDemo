@@ -4,7 +4,7 @@
 //
 //  Created by wing on 2017/12/1.
 //  Copyright © 2017年 wing. All rights reserved.
-//
+//第一次创建新分支的方法在 vc里面哟
 
 #import "ViewController.h"
 #import "XYWaterWaveView.h"
