@@ -4,7 +4,7 @@
 //
 //  Created by wing on 2017/12/1.
 //  Copyright © 2017年 wing. All rights reserved.
-//
+//角度看历史记录会计分录大叔管理地方就好咖喱豆腐
 
 #import "AppDelegate.h"
 
@@ -20,7 +20,7 @@
     return YES;
 }
 
-
+//市东方结核杆菌看帅哥
 - (void)applicationWillResignActive:(UIApplication *)application {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
     // Use this method to pause ongoing tasks, disable timers, and invalidate graphics rendering callbacks. Games should use this method to pause the game.
